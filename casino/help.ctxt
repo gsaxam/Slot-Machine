@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act()\ method\ displays\ the\ help\ panel\r\n\ displays\ the\ help\ image\r\n\ onClick\ inverts\ the\ help\ image\ (shown\ or\ hidden)\r\n
+numComments=1

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=scoreBoard
+comment0.target=spinButton(ScoreBoard)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ spinButton\r\n\ Takes\ in\ the\ object\ of\ ScoreBoard\ as\ parameter\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act()\ method\ invokes\ the\ hasEnough(),\ spin(),\ checkWinner()\ methods\r\n\ Uses\ mouse\ interactions\r\n
+comment2.params=
+comment2.target=void\ spin()
+comment2.text=\r\n\ Spin()\ method\ animates\ the\ symbols\ and\ picks\ up\ three\ random\ numbers\ card1,\ card2\ and\ card3\r\n\ \r\n
+comment3.params=
+comment3.target=void\ checkWinner()
+comment3.text=\r\n\ checkWinner()\ method\ implements\ all\ kinds\ of\ winning\ conditions\r\n\ checks\ the\ position\ of\ the\ symbols\ and\ determines\ the\ winning\ amount\ based\ on\ betAmount\r\n
+comment4.params=
+comment4.target=void\ hasEnough()
+comment4.text=\r\n\ Checks\ if\ the\ user\ has\ enough\ credits\ to\ bet\ more.\ If\ not\ ends\ the\ game\r\n\ Also\ updates\ the\ betAmount\ displays\r\n
+comment5.params=
+comment5.target=void\ clearScreen()
+comment5.text=\r\n\ Removes\ all\ icons\ and\ symbols\ from\ the\ screen\r\n
+comment6.params=
+comment6.target=void\ stopAllSounds()
+comment6.text=\r\n\ Stops\ all\ currently\ playing\ sounds\r\n
+numComments=7

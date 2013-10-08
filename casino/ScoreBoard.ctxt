@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=ScoreBoard(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ the\ ScoreBoard\ Class\r\n\ takes\ in\ string\ text\ as\ the\ parameter\ \r\n\ updates\ the\ scoreboard\ with\ the\ current\ credits\r\n
+comment1.params=text
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ method\ setText\ writes\ the\ string\ to\ an\ image\r\n
+numComments=2
